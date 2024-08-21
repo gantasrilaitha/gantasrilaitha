@@ -85,6 +85,9 @@ I have contributed to the `GSSOC'24:Girl Script Summer Of Code,2024` and here ar
 
 
 ## Some Stats
+
+<!--![Profile Views](https://komarev.com/ghpvc/?username=gantasrilaitha)-->
+
 <table>
   <tr>
     <td>
