@@ -84,5 +84,20 @@ I have contributed to the `GSSOC'24:Girl Script Summer Of Code,2024` and here ar
 | [Searching for requested files using sql triggers ](https://github.com/Ash515/AutomaDesk/issues/59) | ![enhancement](https://img.shields.io/badge/enhancement-green) |
 
 
+## Some Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gantasrilaitha&show_icons=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gantasrilaitha&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gantasrilaitha)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gantasrilaitha&theme=default" />
 
 
