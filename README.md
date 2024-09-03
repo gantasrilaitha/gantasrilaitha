@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Stock Transcript Analysis using OpenAI**
 - 🌱 I’m currently learning Backend Development and LLMs
 - 👯 I’m looking to collaborate on Open_Source_Projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ganta-srilalitha-43797b227/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ganta-srilalitha-43797b227/) , [Email](srilaitha2003@gmail.com)
 
 ## 🛠 My Tech-Stack
 <p align="center">
@@ -28,9 +28,6 @@
   <a href="https://www.mysql.com/">
     <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL Workbench" />
   </a>
-  <a href="https://visualstudio.microsoft.com/">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" />
-  </a>
   <a href="https://www.djangoproject.com/">
     <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
   </a>
@@ -40,11 +37,23 @@
   <a href="https://git-scm.com/">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
+  </a>
   <a href="https://www.atlassian.com/software/jira">
     <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" />
   </a>
   <a href="https://reactjs.org/">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React JS" />
+  </a>
+  <a href="https://vitejs.dev/">
+    <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  </a>
+  <a href="https://www.mongodb.com/cloud/atlas">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB Atlas" />
   </a>
   <a href="https://hadoop.apache.org/">
     <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png" alt="Hadoop" />
@@ -69,8 +78,9 @@
   </a>
   <a href="https://ubuntu.com/">
     <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" />
-  </a>
+ 
 </p>
+
 
 
 ## Contributions to GSSOC'24
@@ -102,5 +112,4 @@ I have contributed to the `GSSOC'24:Girl Script Summer Of Code,2024` and here ar
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gantasrilaitha)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gantasrilaitha&theme=default" />
-
 
