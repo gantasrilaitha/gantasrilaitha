@@ -73,6 +73,9 @@
   <a href="https://spring.io/projects/spring-boot">
     <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Java Spring Boot" />
   </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  </a>
   <a href="https://www.microsoft.com/en-us/windows">
     <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" />
   </a>
