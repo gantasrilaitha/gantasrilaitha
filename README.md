@@ -81,7 +81,8 @@
   </a>
   <a href="https://ubuntu.com/">
     <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" />
- 
+  </a>
+  
 </p>
 
 
