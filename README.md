@@ -1,9 +1,10 @@
 # Hi there, I'm Ganta Srilalitha 👋
 
-- 🔭 I’m currently working on **Stock Transcript Analysis using OpenAI**
-- 🌱 I’m currently learning Backend Development and LLMs
-- 👯 I’m looking to collaborate on Open_Source_Projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ganta-srilalitha-43797b227/) , [Email](srilaitha2003@gmail.com)
+- 🔭 I’m currently working on **Financial Market Data Engineering**
+- 🌱 I’m currently learning Backend Development using **Java Spark with Big Data technologies**
+- 🌱 I’m interested in developing **NLP Based Agentic Models**
+- 👯 I’m looking to collaborate on **Open_Source_Projects**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ganta-srilalitha-43797b227/) , [Portfolio](https://gantasrilalitha.vercel.app/) , [Email](srilaitha2003@gmail.com) 
 
 ## 🛠 My Tech-Stack
 <p align="center">
@@ -82,7 +83,16 @@
   <a href="https://ubuntu.com/">
     <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" />
   </a>
-  
+  <a href="https://spark.apache.org/">
+  <img src="https://img.icons8.com/color/48/apache-spark.png" alt="Apache Spark" />
+</a>
+<a href="https://azure.microsoft.com/">
+  <img src="https://img.icons8.com/color/48/azure-1.png" alt="Microsoft Azure" />
+</a>
+<a href="https://kubernetes.io/">
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" />
+</a>
+
 </p>
 
 
@@ -112,6 +122,8 @@ I have contributed to the `GSSOC'24:Girl Script Summer Of Code,2024` and here ar
     </td>
   </tr>
 </table>
+
+
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gantasrilaitha)
 
